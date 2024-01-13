@@ -15,3 +15,9 @@ print(is_Online)
 name = input("What is your name? ")
 print("Hello " + name)
 
+# type conversion
+
+birth_year = input("Enter your birth year: ")
+my_age = 2024 - int(birth_year)
+
+print(my_age)
