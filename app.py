@@ -21,3 +21,11 @@ birth_year = input("Enter your birth year: ")
 my_age = 2024 - int(birth_year)
 
 print(my_age)
+
+# basic calculator
+
+first = float(input("First number: "))
+second = float(input("Second number: "))
+sum = first + second
+
+print("Sum:" + str(sum))
