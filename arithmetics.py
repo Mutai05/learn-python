@@ -23,3 +23,9 @@ print(b)
 c = 5 == 4
 
 print(c)
+
+# logical operators
+
+price = 15
+print(price > 10 and price < 30)
+print(price > 20 or price < 30)
