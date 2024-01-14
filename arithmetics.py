@@ -29,3 +29,4 @@ print(c)
 price = 15
 print(price > 10 and price < 30)
 print(price > 20 or price < 30)
+print(not price > 10)
