@@ -1,4 +1,4 @@
-Great! Python is a versatile and beginner-friendly programming language. Here's a simple guide to help you get started with Python programming:
+Python is a versatile and beginner-friendly programming language. Here's a simple guide to help you get started with Python programming:
 
 ### 1. Install Python:
 
